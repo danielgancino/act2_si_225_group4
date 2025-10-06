@@ -1,6 +1,6 @@
 # act2_si_225_group4
 There was a problem with the repo being in PRIVATE; Google Colab was not able to find the repo if it is PRIVATE. 
-Because of this, the repo was changed to PUBLIC.
+Because of this, the repo was changed to PUBLIC. Will be changed back to PRIVATE when everything is committed. 
 
 The notebook is organized and divided into sections from 1 to 11. Starting with the reading of the dataset and finishing with
 the conclusion of the analysis of the main findings.
@@ -10,3 +10,4 @@ And matplotlib.pyplot as the library for creating plots for making the graphs, t
 
 Daniel Gancino - danielgancino
 Antonio Adrian - ajac2002
+Dylan Brito - dabrito

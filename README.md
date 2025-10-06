@@ -9,3 +9,4 @@ For this proyect, we use Python as the main language for coding, Pandas as the m
 And matplotlib.pyplot as the library for creating plots for making the graphs, the use of this library is in section 10.
 
 Daniel Gancino - danielgancino
+Antonio Adrian - ajac2002
